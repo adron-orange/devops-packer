@@ -1,4 +1,4 @@
-Instructions for Intro to DevOps Project
+Instructions for Installing
 ========================================
 
 ## Part 0 - Local Installation
