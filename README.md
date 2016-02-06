@@ -20,7 +20,7 @@ Instructions for Installing
 
 ### To make application server image for cloud
 
-See full directions at: https://www.udacity.com/wiki/ud611
+See full directions at: [https://github.com/RyanCCollins/devops-packer/wiki/Install-and-build-instructions](https://github.com/RyanCCollins/devops-packer/wiki/Install-and-build-instructions)
 
 ### To make control (CI and monitoring) server image for cloud
 
